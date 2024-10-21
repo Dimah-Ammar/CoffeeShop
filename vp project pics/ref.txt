@@ -1,0 +1,11 @@
+AboutUs a1 = new AboutUs();
+a1.Show();
+
+Contact c1 = new Contact();
+c1.Show();
+
+ Process.Start("https://twitter.com/login");
+
+ Process.Start("https://www.instagram.com/thecoffeehouse.pk/");
+
+Process.Start("https://facebook.com/thecoffeehouse.pk");
